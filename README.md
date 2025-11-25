@@ -84,14 +84,13 @@ Load existing metadata
 ### Output Screenshots (UI + detection + VS Code terminal)
 
 Include the following screenshots:
+<img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/6647017f-4a5f-49e7-bbd3-2e6df2adffca" />
+<img width="1920" height="1080" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/dc01e186-1fab-4489-aca9-a8c9bd50cd18" />
+<img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/0da2d974-2844-4f72-b1ec-1b312574d05a" />
+<img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/e735124a-2b47-4c6a-9e82-60bfd6e6f820" />
+<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/1f1a2900-5116-499e-a92e-9cd98811eab8" />
+<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/59be4462-82c0-4a5d-9322-6f5dc25e64b4" />
 
-✅ Home Page of Streamlit App
-✅ Image directory input & model selection page
-✅ "Start Inference" output
-✅ Object detection preview images
-✅ Search results panel
-✅ VS Code terminal screenshot showing no errors
-✅ CUDA enabled (if GPU used)
 ```
 CUDA available: True
 CUDA version: 11.8
@@ -101,21 +100,20 @@ GPU Name: NVIDIA GeForce RTX …
 
 You may include features such as:
 
-🚀 GPU acceleration with CUDA
+ GPU acceleration with CUDA
 
-🔍 Fast reverse image search
+ Fast reverse image search
 
-🏷️ Metadata caching using JSON
+ Metadata caching using JSON
 
-🖼️ Thumbnail preview for faster UI rendering
+ Thumbnail preview for faster UI rendering
+ Batch processing optimizations
 
-⚡ Batch processing optimizations
+ Progress bar (tqdm) integration
 
-⏱️ Progress bar (tqdm) integration
+ Directory auto-scanning
 
-📁 Directory auto-scanning
-
-💡 Custom YOLO model support
+ Custom YOLO model support
 ### 10. Results & Conclusion
 
 This project successfully demonstrates:
